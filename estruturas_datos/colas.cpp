@@ -7,7 +7,7 @@ int main(){
 	int opcion;
 	int dato;
 	while(true){
-		cout<<"Menu operaciones --> Pila"<<endl;
+		cout<<"Menu operaciones --> Cola"<<endl;
 		cout<<"1) Encolar Dato\n2) Desencolar dato\n3) Ver frente\n4) Ver final\n5) Esta vacia\n";
 		cout<<"Opcion >> ";
 		cin >> opcion;
